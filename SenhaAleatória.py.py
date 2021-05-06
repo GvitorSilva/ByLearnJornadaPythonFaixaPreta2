@@ -15,7 +15,8 @@ comprimento = 10
 senha = ''. join (sample(todos, comprimento))
 imprimir = (senha)
 
-print(f'Sua senha é {imprimir}')
+print(f'Sua senha é {senha}')
+
 
 
 # In[ ]:
